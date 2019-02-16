@@ -1,0 +1,1 @@
+item_seal_0 = class({})
